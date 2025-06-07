@@ -7,22 +7,22 @@ This project demonstrates how to predict the house prices [SalePrice] using **Mu
 ### About the Data 
 Dataset : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 The data set consist of 
-1.train.csv - training set 
-2.test.csv - testing set
-3.data_description.txt - full description of 81 features 
-4.sample_submission.csv - a submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
+###### 1.train.csv - training set 
+###### 2.test.csv - testing set
+###### 3.data_description.txt - full description of 81 features 
+###### 4.sample_submission.csv - a submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
 
 ### Steps
-1.Understanding the Problem 
-2.Loading the data set
-3.Feature Engineering
-4.Feature Selection 
-5.Data Cleaning 
-6.Exploratory Data Analysis
-7.Train-Test Split 
-8.Training the Model 
-9.Evaluating the Model - Metrics used:-Mean Squared Error (MSE) -Root Mean Squared Error (RMSE) -R² Score 
-10.Data Visualization - Pair plots for correlation -Heatmap of numeric feature correlation with SalePrice -Bar plot of feature coefficients
+**1**.Understanding the Problem 
+**2**.Loading the data set
+**3**.Feature Engineering
+**4**.Feature Selection 
+**5**.Data Cleaning 
+**6**.Exploratory Data Analysis
+**7**.Train-Test Split 
+**8**.Training the Model 
+**9**.Evaluating the Model - Metrics used:-Mean Squared Error (MSE) -Root Mean Squared Error (RMSE) -R² Score 
+**10**.Data Visualization - Pair plots for correlation -Heatmap of numeric feature correlation with SalePrice -Bar plot of feature coefficients
 
 
 ### Features used 
