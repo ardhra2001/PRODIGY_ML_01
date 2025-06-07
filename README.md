@@ -14,14 +14,23 @@ The data set consist of
 
 ### Steps
 **1**.Understanding the Problem 
+
 **2**.Loading the data set
+
 **3**.Feature Engineering
-**4**.Feature Selection 
+
+**4**.Feature Selection
+
 **5**.Data Cleaning 
+
 **6**.Exploratory Data Analysis
+
 **7**.Train-Test Split 
+
 **8**.Training the Model 
-**9**.Evaluating the Model - Metrics used:-Mean Squared Error (MSE) -Root Mean Squared Error (RMSE) -R² Score 
+
+**9**.Evaluating the Model - Metrics used:-Mean Squared Error (MSE) -Root Mean Squared Error (RMSE) -R² Score
+
 **10**.Data Visualization - Pair plots for correlation -Heatmap of numeric feature correlation with SalePrice -Bar plot of feature coefficients
 
 
