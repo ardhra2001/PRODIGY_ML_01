@@ -50,7 +50,7 @@ Grouped into three
 - 'HalfBath'
 - 'BsmtFullBath'
 - 'BsmtHalfBath'
-Target Variable - SalePrice
+##### Target Variable - SalePrice
 
 ### Notes 
 Data cleaning includes dropping features with high missing values , dropping duplicate values  and handling missing numeric entries.
