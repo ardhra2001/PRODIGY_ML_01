@@ -1,6 +1,7 @@
-Tools & Libraries
+Tools 
 Python 
-Jupyter Notebook - Visual Studio Code
+JupyterNotebook - Visual Studio Code
+Libraries
 Numpy
 Pandas
 Seaborn
