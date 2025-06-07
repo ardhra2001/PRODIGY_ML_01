@@ -27,16 +27,16 @@ The data set consist of
 
 ### Features used 
 Grouped into three 
-1.Square Footage 
+##### 1.Square Footage 
 - 'GrLivArea' 
 - 'TotalBsmtSF' 
 - '1stFlrSF' 
 - '2ndFlrSF'
 - 'LotArea'
-2.Bedrooms
+##### 2.Bedrooms
 - 'BedroomAbvGr'
 - 'TotRmsAbvGrd'
-3.Bathrooms
+##### 3.Bathrooms
 - 'FullBath'
 - 'HalfBath'
 - 'BsmtFullBath'
