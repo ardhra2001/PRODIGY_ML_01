@@ -1,9 +1,12 @@
-Tools 
-Python 
-JupyterNotebook - Visual Studio Code
-Libraries
-Numpy
-Pandas
-Seaborn
-Matplotlib
-Scikit-learn
+python 
+jupyterNotebook 
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+pipeline
+standardscaler
+linearregression
+traintestsplit
+metrics
