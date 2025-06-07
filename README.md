@@ -7,10 +7,10 @@ This project demonstrates how to predict the house prices [SalePrice] using **Mu
 ### About the Data 
 Dataset : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 The data set consist of 
-##### 1.train.csv - training set 
-##### 2.test.csv - testing set
-##### 3.data_description.txt - full description of 81 features 
-##### 4.sample_submission.csv - a submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
+ **1**.train.csv - training set 
+ **2**.test.csv - testing set
+ **3**.data_description.txt - full description of 81 features 
+ **4**.sample_submission.csv - a submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
 
 ### Steps
 **1**.Understanding the Problem 
@@ -36,21 +36,21 @@ The data set consist of
 
 ### Features used 
 Grouped into three 
-##### 1.Square Footage 
+**1.Square Footage**
 - 'GrLivArea' 
 - 'TotalBsmtSF' 
 - '1stFlrSF' 
 - '2ndFlrSF'
 - 'LotArea'
-##### 2.Bedrooms
+**2.Bedrooms**
 - 'BedroomAbvGr'
 - 'TotRmsAbvGrd'
-##### 3.Bathrooms
+ **3.Bathrooms**
 - 'FullBath'
 - 'HalfBath'
 - 'BsmtFullBath'
 - 'BsmtHalfBath'
-##### Target Variable - SalePrice
+  **Target Variable - SalePrice**
 
 ### Notes 
 Data cleaning includes dropping features with high missing values , dropping duplicate values  and handling missing numeric entries.
