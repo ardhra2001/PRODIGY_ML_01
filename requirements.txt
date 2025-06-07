@@ -1,1 +1,8 @@
-## Tools & Libraries
+Tools & Libraries
+Python 
+Jupyter Notebook - Visual Studio Code
+Numpy
+Pandas
+Seaborn
+Matplotlib
+Scikit-learn
